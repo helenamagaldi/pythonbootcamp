@@ -1,0 +1,10 @@
+Section-1
+Section-1 Introduction
+In this part we are going to cover the basic python.
+That consists of basic data types , functions , loops etc. These thing are required for beign familiar with the Python. Also these are the base for any Python program.
+Those who are new to program please focus on this part otherwise the other parts will be hard for you. Those who had already done programming may find this part a little boring but i'm sure you will enjoy later.
+After covering the basis concepts we will go for some basic python projects that are designed for begginers and for those who have done little programming. You will also enjoy the projects beacause they are good and designed in very intersting way also they will cover your basic concepts.
+Fullscreen
+Default view
+17. Editors link
+19. Introduction to this module
